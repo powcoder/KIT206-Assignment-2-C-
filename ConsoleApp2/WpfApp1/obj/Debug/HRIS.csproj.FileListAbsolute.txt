@@ -1,0 +1,11 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+C:\Users\82510\OneDrive\桌面\KIT506\Assignment2\ConsoleApp2\WpfApp1\obj\Debug\HRIS.csprojAssemblyReference.cache
+C:\Users\82510\OneDrive\桌面\KIT506\Assignment2\ConsoleApp2\WpfApp1\obj\Debug\WpfApp1.exe.config
+C:\Users\82510\OneDrive\桌面\KIT506\Assignment2\ConsoleApp2\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\82510\OneDrive\桌面\KIT506\Assignment2\ConsoleApp2\WpfApp1\obj\Debug\App.g.cs
+C:\Users\82510\OneDrive\桌面\KIT506\Assignment2\ConsoleApp2\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\82510\OneDrive\桌面\KIT506\Assignment2\ConsoleApp2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\82510\OneDrive\桌面\KIT506\Assignment2\ConsoleApp2\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
